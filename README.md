@@ -2,13 +2,15 @@
 
 Standalone Nokia 3310 Snake II recreation with accurate hardware chrome and modern smooth snake movement.
 
-- **Play**: Open `index.html` in a browser or visit the GitHub Pages URL once deployed.
+**Play the game**: [https://kierz.io/game](https://kierz.io/game)
+
 - **Features**: Classic wrap-around gameplay, local high-score persistence, keyboard + touch controls, smooth interpolated movement, authentic muted-green LCD palette.
 - **Tech**: Single-file vanilla HTML/CSS/JS + Canvas 2D. No dependencies, no build step.
 - **Mobile**: Fully touch-friendly with on-screen D-pad.
 - **Desktop**: Keyboard (Arrow keys / WASD / P / Space).
+- **Standalone**: Open `index.html` locally or deploy via GitHub Pages.
 
-This is the dedicated repository for the interactive demo previously embedded in [kierz.io](https://kierz.io/game). The integrated version on the main site now links here for the Code button.
+This repository powers the Code button on the [kierz.io](https://kierz.io/game) project card.
 
 ## Running locally
 Simply open `index.html` — everything is self-contained.
